@@ -1,0 +1,14 @@
+1,Apple,1.00,
+2,Orange,2.00,
+3,Banana,3.00,
+4,Pear,4.00,
+5,Grape,5.00,
+6,Tomato,6.00,
+7,Pineapple,9.00,
+8,Strawberry,10.00
+
+
+
+
+
+
